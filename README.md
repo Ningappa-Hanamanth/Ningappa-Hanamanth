@@ -3,7 +3,7 @@
 ### A passionate developer from Bangalore
 
 * 🔭 I’m currently working on github ( learning from skillup online )
-* 🌱 I’m currently learning SQL
+* 🌱 I’m currently learning SQL,PowerBI
 * 👯 I’m looking to collaborate on ...
 * 💬 Ask me about ...
 * 📫 How to reach me: ninguha1006@gmail.com
